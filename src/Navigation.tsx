@@ -6,6 +6,7 @@ export default function Navigation(){
             <div>
                 <Link to={"/"}> WelcomePage </Link>
                 <Link to={"/characters"}> Characters </Link>
+                <Link to={"/newcharacter"}> AddNewCharacter </Link>
             </div>
         </>
     )
